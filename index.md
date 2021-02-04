@@ -13,8 +13,11 @@ Below is a screenshot...
 
 <img width="1435" alt="Screen Shot 2021-02-02 at 10 21 46 PM" src="https://user-images.githubusercontent.com/25252415/106830821-d1558800-665c-11eb-92f9-4368818b7bca.png">
 
+The user chooses a letter from a list of predefined words! The app tracks the number of wins and losses.
 
 ### Support or Contact
 
-@joshuamsmock on twitter
+@joshuamsmock on Twitter
+__________________________
+
 Email: joshuamichaelsmock@gmail.com
