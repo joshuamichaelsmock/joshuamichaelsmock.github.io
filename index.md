@@ -18,6 +18,8 @@ The user chooses a letter from a list of predefined words! The app tracks the nu
 ### Support or Contact
 
 @joshuamsmock on Twitter
-__________________________
 
 Email: joshuamichaelsmock@gmail.com
+__________________________
+
+made with ❤️ in Columbus OH
