@@ -20,6 +20,7 @@ The user chooses a letter from a list of predefined words! The app tracks the nu
 @joshuamsmock on Twitter
 
 Email: joshuamichaelsmock@gmail.com
+
 __________________________
 
 made with ❤️ in Columbus OH
